@@ -1,0 +1,13 @@
+[
+	{
+		"title": "lapiz",
+		"description": "el lapiz",
+		"code": "3334",
+		"price": "1234",
+		"status": "true",
+		"stock": "9",
+		"category": "escuela",
+		"thumbnails": "www.google.com",
+		"id": 2
+	}
+]
